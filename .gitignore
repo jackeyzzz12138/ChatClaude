@@ -1,0 +1,9 @@
+gradio-env/
+flagged/
+__pycache__/
+
+# misc
+.DS_Store
+
+# beta
+test.py
